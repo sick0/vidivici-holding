@@ -1,4 +1,0 @@
-vidivici
-========
-
-Vidivici holding page
